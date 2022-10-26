@@ -1,0 +1,17 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 8vmin;
+  pointer-events: none;
+}
+
+.list-view {
+    font-size: 30px;
+}
+
+.pages {
+  height: 72vh;
+}

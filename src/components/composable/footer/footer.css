@@ -1,0 +1,15 @@
+.footer {
+  height: 100px;
+  width: 100%;
+  background-color: #f8f9fa;
+}
+
+.footer-copyright {
+    float: left;
+    padding-top: 35px;
+}
+
+.footer-links {
+    float: right;
+    padding-top: 25px;
+}
